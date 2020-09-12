@@ -1,0 +1,7 @@
+How To Play
+
+use WASD keys to move and mouse to look around
+
+Get to the house - this is the goal and resets the level
+
+Use the Escape key to exit
